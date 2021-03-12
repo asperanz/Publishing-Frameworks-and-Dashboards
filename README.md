@@ -1,2 +1,2 @@
-# Publishing-Frameworks-and-Dashboards
+# Publishing Frameworks & Dashboards Practice
 Code for Publishing Frameworks &amp; Dashboards Practice
